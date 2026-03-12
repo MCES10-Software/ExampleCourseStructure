@@ -1,5 +1,5 @@
 {
-  "title": "AQA Computer Science GCSE - Data Representation (Community)",
+  "title": "AQA Computer Science GCSE - Data Representation",
   "favouritePersona": "AQA Computer Science GCSE",
   "version": 1,
   "chapters": [
@@ -20,7 +20,12 @@
       "questions": [
         {
           "question": "What number system do computers use?",
-          "answer": "Binary",
+          "marks": "1",
+          "answer": [
+            {
+              "M1": "Binary"
+            }
+          ],
           "accept": ["base 2", "binary number system"],
           "reject": ["decimal", "denary", "hexadecimal"]
         }
@@ -37,7 +42,12 @@
       "questions": [
         {
           "question": "How many bits are in a byte?",
-          "answer": "8",
+          "marks": "1",
+          "answer": [
+            {
+              "M1": "8"
+            }
+          ],
           "accept": ["eight"],
           "reject": ["4", "16"]
         }
