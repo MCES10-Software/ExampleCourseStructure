@@ -1,0 +1,7 @@
+{
+    "courses": [
+        {   
+            "Data Representation": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/aqa-computer-science-gcse/data_representation_course.json"
+        }
+    ]
+}

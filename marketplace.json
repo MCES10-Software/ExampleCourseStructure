@@ -1,0 +1,29 @@
+{
+    "personas": [
+        {
+        "AQA Computer Science GCSE": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-computer-science-gcse.json",
+        "AQA Design Technology GCSE": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-design-technology.json",
+        "AQA German GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-german-gcse-higher.json",
+        "AQA German GCSE Foudnation": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-german-gcse-foundation.json",
+        "AQA Spanish GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-spanish-gcse-higher.json",
+        "AQA Spanish GCSE Foundation": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-spanish-gcse-foundation.json",
+        "AQA French GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-french-gcse-higher.json",
+        "AQA French GCSE Foundation": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-french-gcse-foundation.json",
+        "AQA Maths GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-maths-gcse-higher.json",
+        "AQA Maths GCSE Foundation": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-maths-gcse-foundation.json",
+        "AQA Biology GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-biology-gcse-higher.json",
+        "AQA Chemistry GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-chemistry-gcse-higher.json",
+        "AQA Physics GCSE Higher": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-physics-gcse-higher.json",
+        "AQA Level 2 Further Maths": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-level-2-further-maths.json",
+        "AQA GCSE English Language": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/aqa-gcse-english-language.json",
+        "Edexcel iGCSE Biology": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-biology.json",
+        "Edexcel iGCSE Chemistry": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-chemistry.json",
+        "Edexcel iGCSE English Language": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-english-literature.json",
+        "Edexcel iGCSE English Literature": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-english-literature.json",
+        "Edexcel iGCSE History": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-history.json",
+        "Edexcel iGCSE Maths": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-maths.json",
+        "Edexcel iGCSE Physics": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/edexcel-igcse-physics.json",
+        "OCR Classical Civilisation GCSE": "https://raw.githubusercontent.com/MCES10-Software/ExampleCourseStructure/refs/heads/main/courses/orc-classical-civilisation.json"
+        }
+    ] 
+}
