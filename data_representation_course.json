@@ -1,0 +1,47 @@
+{
+  "title": "AQA Computer Science GCSE - Data Representation",
+  "favouritePersona": "AQA Computer Science GCSE",
+  "version": 1,
+  "chapters": [
+    {
+      "topic": "Binary Basics",
+      "slides": [
+        {
+          "type": "text",
+          "text": "Binary uses only 0 and 1 to represent data.",
+          "image": "https://techterms.com/img/md/binary_14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://techterms.com/img/md/binary_14.jpg",
+          "caption": "Binary place value chart"
+        }
+      ],
+      "questions": [
+        {
+          "question": "What number system do computers use?",
+          "answer": "Binary",
+          "accept": ["base 2", "binary number system"],
+          "reject": ["decimal", "denary", "hexadecimal"]
+        }
+      ]
+    },
+    {
+      "topic": "Units of Storage",
+      "slides": [
+        {
+          "type": "text",
+          "text": "8 bits make 1 byte."
+        }
+      ],
+      "questions": [
+        {
+          "question": "How many bits are in a byte?",
+          "answer": "8",
+          "accept": ["eight"],
+          "reject": ["4", "16"]
+        }
+      ]
+    }
+  ]
+}
